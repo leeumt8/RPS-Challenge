@@ -1,2 +1,2 @@
-# RPS-Challenge
-Rock Paper Scissors Game --- focusing on Firebase
+# Train Scheduler
+Train Scheduler --- focusing on Firebase
